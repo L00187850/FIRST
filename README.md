@@ -1,5 +1,5 @@
 # This repo contains 11 demos containing Demos 1 - 11 of bat files.
-## This repo was made by  Philip [^2]
+## This repo was made by  Philip [^bignote]
 
 **I have also shown a photo below showing some examples:**
 
@@ -32,7 +32,7 @@ I've decided to put up a tent and have put up a do not disturb sign to sleep. :t
 
 [^1]: There are many other commands like these but this would be a great start to your scripting career!
 
-[^2]{
+[^bignote]{
   "Author": "Philip Stewart",
   "Student Number": "L00187850",
   "Date": 24 Oct 2024
