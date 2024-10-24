@@ -4,7 +4,7 @@
 > Commands in Micorosft Windows can be very powerful.
 **I have also shown a photo below showing some examples:**
 
-The link to the website hosting the photo can be found here: ![Alt Text](https://www.redswitches.com/)
+The link to the website hosting the photo can be found here: ![load the website where this cheat sheet comes from](https://www.redswitches.com/)
 
 ![cheat sheet](https://www.redswitches.com/wp-content/uploads/2023/06/Windows-CMD-Commands-Cheat-Sheet-6-1.png)
 
