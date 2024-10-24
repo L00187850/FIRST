@@ -23,10 +23,11 @@ The four main commands to know though are: [^1]
 |-----------------------|-----------------------|
 
 
-Just a quick note on these commands, particularly RMDIR, you can ==add /S and /Q== to ==Delete subfolders quietly
-:relieved:
+Just a quick note on these commands, particularly RMDIR, you can <mark>add /S and /Q</mark> to <mark>Delete subfolders quietly</mark>
+
 
 I'm very amused writing this readme.md file but i'm very sleepy from it! :sleeping:
+I've decided to put up a tent and have put up a do not disturb sign to sleep. :tent:
 
 [^1]: There are Many other commands like these but this would be a great start to your scripting career!
 
